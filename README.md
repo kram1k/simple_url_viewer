@@ -1,2 +1,2 @@
 # simple_url_viewer
-App for view URL
+## Это простое приложения для отображения URL 
